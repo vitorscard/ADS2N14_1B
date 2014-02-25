@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -62,3 +63,13 @@ public class hello_you {
 
 }
 
+=======
+
+public class Principal {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+	}
+
+}
+>>>>>>> fbe75cbf35544962590e2a2085b089996e76e32d
